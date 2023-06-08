@@ -1,0 +1,12 @@
+name: AzTrasher
+version: '${project.version}'
+main: relitestudio.azmine.aztrasher.Main
+api-version: 1.19
+softdepend: [ PlaceholderAPI ]
+commands:
+  createTrashboxType:
+    description: Create type of trashbox
+    usage: /createTrashboxType <trashbox type name>
+  addItemToTrashboxType:
+    description: Add item from your main hand
+    usage: /addItemToTrashboxType <trashbox type name> <chance>
