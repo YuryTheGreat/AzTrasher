@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AzTrasher:jar">
-    <output-path>$USER_HOME$/Desktop/Minecraft server/plugins</output-path>
-    <root id="archive" name="AzTrasher.jar">
-      <element id="module-output" name="AzTrasher" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/PlaceholderAPI-2.10.9.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
